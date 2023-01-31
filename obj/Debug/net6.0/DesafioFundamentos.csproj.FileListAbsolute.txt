@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Projeto_Estacionamento_C-_Dio\bin\Debug\net6.0\DesafioFundamentos.exe
+C:\xampp\htdocs\Projeto_Estacionamento_C-_Dio\bin\Debug\net6.0\DesafioFundamentos.deps.json
+C:\xampp\htdocs\Projeto_Estacionamento_C-_Dio\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+C:\xampp\htdocs\Projeto_Estacionamento_C-_Dio\bin\Debug\net6.0\DesafioFundamentos.dll
+C:\xampp\htdocs\Projeto_Estacionamento_C-_Dio\bin\Debug\net6.0\DesafioFundamentos.pdb
+C:\xampp\htdocs\Projeto_Estacionamento_C-_Dio\obj\Debug\net6.0\DesafioFundamentos.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Projeto_Estacionamento_C-_Dio\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Projeto_Estacionamento_C-_Dio\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Projeto_Estacionamento_C-_Dio\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+C:\xampp\htdocs\Projeto_Estacionamento_C-_Dio\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Projeto_Estacionamento_C-_Dio\obj\Debug\net6.0\DesafioFundamentos.dll
+C:\xampp\htdocs\Projeto_Estacionamento_C-_Dio\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+C:\xampp\htdocs\Projeto_Estacionamento_C-_Dio\obj\Debug\net6.0\DesafioFundamentos.pdb
+C:\xampp\htdocs\Projeto_Estacionamento_C-_Dio\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+C:\xampp\htdocs\Projeto_Estacionamento_C-_Dio\obj\Debug\net6.0\ref\DesafioFundamentos.dll
